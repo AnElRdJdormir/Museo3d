@@ -1,0 +1,108 @@
+﻿  main.cpp
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\camera.h(76,1): warning C4305: 'argumento': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(34,26): warning C4244: '*=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(35,26): warning C4244: '*=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(96,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Billboard.h(97,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Objectives.h(4,13): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(63,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(64,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(73,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,64): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Plane.h(114,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(61,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(62,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(71,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,64): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\QuadTexture.h(112,52): warning C4244: 'argumento': conversión de 'float' a 'GLsizei'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\RigidModel.h(1,13): warning C4081: se esperaba 'newline'; se encontró ';'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\mesh.h(111,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(52,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\Terrain.h(192,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\textrenderer.h(117,37): warning C4838: la conversión de 'FT_Pos' en 'unsigned int' requiere una conversión de restricción
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\variables.h(108,22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(143,33): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(359,69): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(407,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(420,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(433,46): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(526,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(527,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(531,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(532,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(534,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(535,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(557,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(558,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(562,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(563,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(565,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(566,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\include\engine\functions.h(585,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(28,1): warning C4305: '+=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(40,1): warning C4305: '-=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(64,1): warning C4305: '+=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(76,1): warning C4305: '-=': truncamiento de 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(176,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(179,28): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(491,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(492,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(499,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(500,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(507,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(508,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(515,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(516,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(524,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(525,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(536,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(537,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(547,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(548,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(558,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\OGL_ENGINE\main.cpp(559,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  OGL_ENGINE.vcxproj -> C:\Users\LEL\Downloads\Mini Museo\OGL_TEMPLATE\OGL_ENGINE\x64\Debug\OGL_ENGINE.exe
